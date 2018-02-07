@@ -43,6 +43,10 @@ while(count<=100):
     if (count== 93):
             count= 64
             print ("The snake has bitten you")
+            elif count>100
+            count=count-r
+            print("You have exceeded the limit TRY AGAIN")
+                
     if (count== 100):
             print ("YOU HAVE WON THE GAME!!!!")
 
