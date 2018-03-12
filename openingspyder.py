@@ -1,0 +1,8 @@
+a= open("271.txt","w")
+a.write("HELLO SPYDER")
+a=open("271.txt", "r")
+print(a.read())
+a=open("271.txt","a")
+a.write(" HELLO PYTHON")
+a=open("271.txt", "r")
+print(a.read())
